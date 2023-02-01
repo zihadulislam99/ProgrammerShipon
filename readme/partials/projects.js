@@ -9,7 +9,7 @@ const getList = (...items) => {
 module.exports = {
   projectList: getList([
     "Personal-Github-Overview",
-    "https://github.com/Dev-SalamSheikh/personal-githuboverview.git",
+    "https://github.com/ProgrammerShipon/personal-githuboverview.git",
     "Personal App for overview on gihtub",
   ]),
 };
